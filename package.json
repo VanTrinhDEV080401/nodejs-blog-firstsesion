@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "hoc nodej s",
+  "main": "index.js",
+  "scripts": {
+    "start" :"nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanTrinhDEV080401/nodejs-blog-firstsesion.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "TrinhDEV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanTrinhDEV080401/nodejs-blog-firstsesion/issues"
+  },
+  "homepage": "https://github.com/VanTrinhDEV080401/nodejs-blog-firstsesion#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
